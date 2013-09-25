@@ -1,6 +1,6 @@
 {
   "name": "stream-meter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A stream meter that both counts the bytes piped through it, and can optionally abort on a max size.  (e.g. limit a http request size)",
   "main": "index.js",
   "directories": {
