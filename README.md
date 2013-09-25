@@ -1,6 +1,11 @@
 Stream Meter
 ============
 
+[![NPM](https://nodei.co/npm/stream-meter.png)](https://nodei.co/npm/stream-meter/)
+
+[![david-dm](https://david-dm.org/brycebaril/node-stream-meter.png)](https://david-dm.org/brycebaril/node-stream-meter/)
+[![david-dm](https://david-dm.org/brycebaril/node-stream-meter/dev-status.png)](https://david-dm.org/brycebaril/node-stream-meter#info=devDependencies/)
+
 Stream Meter is a... uh, meter for streams.
 
 It is a streams2 Transform stream that passes through content, but counts the number of bytes it forwards.

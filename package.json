@@ -10,12 +10,12 @@
     "readable-stream": "~1.1.9"
   },
   "devDependencies": {
-    "concat-stream": "~1.0.0",
+    "concat-stream": "~1.0.1",
     "stream-spigot": "~2.1.2",
-    "tap": "~0.4.3"
+    "tape": "~1.1.1"
   },
   "scripts": {
-    "test": "tap test/*.js"
+    "test": "node test/"
   },
   "repository": {
     "type": "git",
